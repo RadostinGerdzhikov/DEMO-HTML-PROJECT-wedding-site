@@ -1,1 +1,1 @@
-# This is DEMO-HTML-PROJECT-wedding-site for for demonstration purposes.
+# This is DEMO-HTML-PROJECT-wedding-site for demonstration purposes.
